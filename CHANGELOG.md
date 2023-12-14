@@ -8,6 +8,20 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
+## [0.0.3] - 2023-12-14
+
+### Added
+
+- icon.ai file (illustrator file)
+
+### Fixed
+
+- Screenshots preview on README
+
+### Changed
+
+- Renamed display name
+
 ## [0.0.2] - 2023-12-14
 
 ### Added
