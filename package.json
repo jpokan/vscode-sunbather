@@ -1,0 +1,21 @@
+{
+  "name": "jpokan-sunbather",
+  "displayName": "sunbather",
+  "description": "A minimalist theme for VS Code with pink accent based on sunbather-vim theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sunbather",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sunbather-color-theme.json"
+      }
+    ]
+  }
+}
