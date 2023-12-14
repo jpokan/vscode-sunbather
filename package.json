@@ -2,7 +2,7 @@
   "name": "vscode-sunbather",
   "displayName": "vscode-sunbather",
   "description": "A minimalist theme for VS Code with pink accent based on vim-sunbather theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -16,6 +16,7 @@
     "theme", "minimalist", "sunbather", "jpokan", "pink", "simple", "modern", "dark", "aesthetic", "clean"
   ],
   "pricing": "Free",
+  "icon": "sunbather-icon.png",
   "contributes": {
     "themes": [
       {
