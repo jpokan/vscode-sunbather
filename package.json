@@ -7,9 +7,15 @@
     "vscode": "^1.85.0"
   },
   "repository": "https://github.com/jpokan/vscode-sunbather.git",
+  "publisher": "jpokan",
+  "license": "MIT",
   "categories": [
     "Themes"
   ],
+  "keywords": [
+	  "theme", "minimalist", "sunbather", "jpokan", "pink", "simple", "modern", "dark", "aesthetic", "clean"
+  ],
+  "pricing": "Free",
   "contributes": {
     "themes": [
       {
