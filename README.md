@@ -4,8 +4,8 @@ A port of vim-sunbather theme for vs code. It is a minimalistic dark theme with 
 
 ##### Screenshots
 
-![](screenshots/screenshot-1.png)
-![](screenshots/screenshot-2.png)
+![](https://github.com/jpokan/vscode-sunbather/blob/master/screenshots/Screenshot-1.png?raw=true)
+![](https://github.com/jpokan/vscode-sunbather/blob/master/screenshots/Screenshot-2.png?raw=true)
 
 Developed the base theme in https://themes.vscode.one/theme/jpokan/Mls08D0S
 
