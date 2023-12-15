@@ -8,6 +8,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
+## [0.0.4] - 2023-12-15
+
+### Fixed
+
+- Improved colors
+
 ## [0.0.3] - 2023-12-14
 
 ### Added
